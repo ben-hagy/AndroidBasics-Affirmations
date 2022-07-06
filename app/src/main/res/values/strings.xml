@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations Redux</string>
+    <string name="affirmation1">Martha Stewart is my baking icon.</string>
+    <string name="affirmation2">I will always remember the titans.</string>
+    <string name="affirmation3">I snort more than the average elephant.</string>
+    <string name="affirmation4">The best part of waking up is Foldgers in your cup.</string>
+    <string name="affirmation5">Julia Roberts might have a very large home.</string>
+    <string name="affirmation6">Don\'t forget to pack your backpack full of vittles.</string>
+    <string name="affirmation7">Sheila Racecar is not a real person.</string>
+    <string name="affirmation8">Confessions are a natural thing.</string>
+    <string name="affirmation9">A little bit of Sandra in the sun? No, no thanks.</string>
+    <string name="affirmation10">Impatience can occasionally be a virtue.</string>
+</resources>
